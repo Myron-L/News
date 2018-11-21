@@ -1,6 +1,6 @@
 <template>
     <div class="page">
-        首页
+        国际
     </div>
 </template>
 
@@ -21,7 +21,6 @@ export default {
 
     }
 }
-
 </script>
 <style lang="scss" scoped>
 
